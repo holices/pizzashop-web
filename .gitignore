@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Packages
+package-lock.json
+
+# Typescript
+tsconfig.json
+tsconfig.node.json
